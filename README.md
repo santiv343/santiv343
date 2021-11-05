@@ -19,7 +19,7 @@ const aboutMe = {
    },
 };
 ```
-- 🌱 I’m want to learn **Golang** (●'◡'●)
+- 🌱 I want to learn **Golang** (●'◡'●)
 
 - 💬 Ask me about **JavaScript, React, Redux, HTML, CSS, Node JS, Express, PostgreSQL, TypeScript, Sequelize**
 

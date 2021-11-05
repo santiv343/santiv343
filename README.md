@@ -1,7 +1,7 @@
 <img src="https://github.com/santiv343/santiv343/blob/main/svg.svg" atl="hello world"/>
 
 <h1 align="center">Hi 👋, I'm Santiago Varacca</h1>
-<h3 align="center">I am 22 years old Argentinian who loves video-games, music, cars, and overall technology. I am currently focused on full stack web development, and learning new technologies. This year I achieved a full stack web develper certification, so I want share with you my skills. Welcome!!</h3>
+<h3 align="center">I am a 22 years old Argentinian who loves video-games, music, cars, and overall technology. I am currently focused on full stack web development, and learning new technologies. This year I achieved a full stack web develper certification, so I want share with you my skills. Welcome!!</h3>
 
 ```javascript
 const aboutMe = {
@@ -19,7 +19,7 @@ const aboutMe = {
    },
 };
 ```
-- 🌱 I’m currently learning **Golang**
+- 🌱 I’m want to learn **Golang** (●'◡'●)
 
 - 💬 Ask me about **JavaScript, React, Redux, HTML, CSS, Node JS, Express, PostgreSQL, TypeScript, Sequelize**
 

@@ -1,4 +1,5 @@
 <img src="https://github.com/santiv343/santiv343/blob/main/svg.svg" atl="hello world"/>
+
 <h1 align="center">Hi 👋, I'm Santiago Varacca</h1>
 <h3 align="center">I am 22 years old Argentinian who loves video-games and technology. I am currently focused on full stack web development, systems, AGILE methodologies, digital transformation and learn new technologies to exploit them. The past 2021 year, i rediscovered my passion for programming and achieved a full stack web develper certification, I want share with you my skills. Welcome!!</h3>
 

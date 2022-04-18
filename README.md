@@ -9,8 +9,8 @@ const aboutMe = {
    code: [Javascript, Typescript, HTML, CSS],
    technologies: {
       frontEnd: {
-         js: ["React", "Redux"],
-         css: ["Bootstrap", "Material UI"]
+         js: ["React", "Redux", "NextJS"],
+         css: ["Bootstrap", "Material UI", "Tailwind", "SASS", "StyledComponents", "CssModules"]
       },
       backEnd: {
          js: ["Node", "Express"]
@@ -55,6 +55,6 @@ const aboutMe = {
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=santiv343&theme=dark" alt="santiv343" /></p>
 
 </br>
-<h4 align="center">Visitor's :eyes:</h4>
+<h4 align="center">Visitors :eyes:</h4>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{santiv343}/count.svg" alt="santiv343 :: Visitor's Count" /></p>

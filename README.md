@@ -19,9 +19,8 @@ const aboutMe = {
    },
 };
 ```
-- 🌱 I want to learn **Golang** (●'◡'●)
 
-- 💬 Ask me about **JavaScript, React, Redux, HTML, CSS, Node JS, Express, PostgreSQL, TypeScript, Sequelize**
+- 💬 Ask me about **JavaScript, React, Redux, HTML, CSS, Node JS, Express, PostgreSQL, TypeScript, GraphQL**
 
 - 📫 How to reach me  [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:santiagovaracca@gmail.com)
 

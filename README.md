@@ -1,5 +1,3 @@
-<img src="https://github.com/santiv343/santiv343/blob/main/svg.svg" alt="hello world"/>
-
 <h1 align="center">Hi 👋, I'm Santiago Varacca</h1>
 <h3 align="center">
 Full Stack Software Engineer (Frontend-heavy) · TypeScript · React · Microservices · AI Integrations
@@ -91,17 +89,3 @@ I enjoy building **scalable, maintainable systems**, improving developer experie
 - 🧑‍💻 GitHub: https://github.com/santiv343
 
 ---
-
-## 📊 GitHub stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=santiv343&layout=compact&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=santiv343&show_icons=true&theme=highcontrast" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=santiv343&theme=dark" />
-</p>
